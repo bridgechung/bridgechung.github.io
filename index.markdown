@@ -19,7 +19,7 @@ Hire me to play bridge with you as your partner or as a teammate. Includes a pos
 
 
 ## Bridge (or other games) + Babysitting
-Looking for some you time? I can entertain your kids and teach them bridge (if that's what you want), or other games, piano practice supervision (I am ![very good](https://www.youtube.com/watch?v=fTHPVxBIwaA)), or even homework! I am located around the peninsula area south of San Francisco in California.  
+Looking for some you time? I can entertain your kids and teach them bridge (if that's what you want), or other games, piano practice supervision (I am [very good](https://www.youtube.com/watch?v=fTHPVxBIwaA)), or even homework! I am located around the peninsula area south of San Francisco in California.  
 ![Bridge Babysitting](/images/kuhchung-sivy.jpg)
 
 
