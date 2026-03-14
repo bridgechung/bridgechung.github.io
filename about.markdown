@@ -18,5 +18,5 @@ I want to help *you* (and your partner, if you're looking for partnership coachi
 
 [YouTube](https://www.youtube.com/@ChrisChungPlaysBridge)  
 [Patreon](https://www.patreon.com/c/BridgeChung)  
-[Twitch](https://www.twitch.tv/kuhchung)
+[Twitch](https://www.twitch.tv/kuhchung)  
 BBO: kuhchung  
