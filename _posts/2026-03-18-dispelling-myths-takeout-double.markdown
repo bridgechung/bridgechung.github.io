@@ -81,5 +81,5 @@ The main point is, a takeout double demands nothing. It shows our own hand, and 
 
 *I would actually teach anybody and everybody that you can have a doubleton in the unbid minor. But that can be saved for later.
 
-[Read more for free on Patreon!](https://www.patreon.com/posts/short-report-nap-152073413)
+[Read more for free on Patreon!](https://www.patreon.com/cw/BridgeChung)
 
