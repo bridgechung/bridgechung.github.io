@@ -43,7 +43,7 @@ Partner passes it.
 
 How do you feel?
 
-I would be ecstatic. We are going to likely going to MURDER this contract!
+I would be ecstatic. We are going to MURDER this contract!
 
 Partner heard that we can support all suits outside of spades. Additionally, we have a reasonable hand in picture cards. With all of that info, he decided that we are better off collecting a penalty against their 2S contract than to bid on. Great!
 
