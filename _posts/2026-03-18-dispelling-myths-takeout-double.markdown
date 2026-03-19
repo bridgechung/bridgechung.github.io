@@ -73,7 +73,7 @@ Now say it goes
 
 to you. You are in second seat with KQTx Jxx Axxx Ax. Partner has an opening-ish hand (technically could be less) and 3+ cards in the outside suits. What do you think your best contract is?
 
-HOLY MOLY we are getting RICH. Our hand has 3 trump tricks and two aces. And partner is going to contribute something to the defense too. What other possible contract could we play? Clubs? Maybe partner only has 3. 3NT? Partner might be a little light on high card points, and there may be bad breaks with the preempt. I think our best contract is clearly 2Sx!
+HOLY MOLY we are getting RICH. Our hand has 3 trump tricks and two aces. And partner is going to contribute something to the defense too. What other possible contract could we play? Diamonds? Maybe partner only has 3. 3NT? Partner might be a little light on high card points, and there may be bad breaks with the preempt. I think our best contract is clearly 2Sx!
 
 It gets more complicated as you get to higher and higher levels. Our side will start passing takeout doubles with fewer and fewer enemy trumps, and this is because we are still trying to reach the best contract with the information we have. The level is just too high.
 
