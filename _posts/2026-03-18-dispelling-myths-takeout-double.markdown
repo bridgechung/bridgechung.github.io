@@ -27,9 +27,9 @@ When I hear it in common parlance, or on bridge forums, that's where I see the s
 
 This is a total myth.
 
-I believe I understand why people teach it this way, and I really wish they would not. These are players who have made a takeout double, and their partner passed it with an inappropriate hand, and they decided to overcorrect in the other direction ny telling their partner that a takeout double must not be passed.
+I believe I understand why people teach it this way, and I really wish they would not. These are players who have made a takeout double, and their partner passed it with an inappropriate hand, and they decided to overcorrect in the other direction by telling their partner that a takeout double must not be passed.
 
-Let me tell you what a takeout double is, about 95% of the time.
+Let me tell you what a takeout double is about 95% of the time.
 
 A takeout double shows 3+ card support in the outside suits and approximately an opening hand or better.*
 
