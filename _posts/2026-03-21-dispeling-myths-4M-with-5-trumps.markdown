@@ -47,7 +47,7 @@ Even if you get pushed as in the above scenarios, you are only playing 3, not 4.
 
 Here's a hand from NAP A where we scored an 85%.
 
-[3M stop](/images/dbm-5cM.png)
+![3M stop](/images/dbm-5cM.png)
 
 The auction went
 
@@ -62,3 +62,5 @@ In short, with 5M332 when partner opens your major, I would just make your norma
 This article focused on 5M332 shape, because it is uniquely bad in my experience. Other shapes are complicated, and I don't have a magic bullet for you. 5224, 5431? I'm really not sure. Bridge is hard.
 
 There are more applications of this besides 5M332, and it's always the same story. 4M333 and 3M433 are even more obviously bad than 5M332. If your hand is flat, what are you ruffing? That is the whole purpose of a trump suit, after all. The one thing that extra trumps may do for you is reduce the number of trump losers, like if partner's missing the Q or something. But if you don't score ruffs... now we're slugging it out with pure HCP. And I don't like fair fights in bridge, and I don't think you should either. Not if you're playing a high level contract.
+
+[Read more for free on Patreon!](https://www.patreon.com/cw/BridgeChung)
