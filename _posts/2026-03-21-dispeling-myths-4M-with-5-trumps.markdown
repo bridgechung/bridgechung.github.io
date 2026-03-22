@@ -13,7 +13,7 @@ That is the myth.
 
 Bidding game on any hand with 5 card support is definitely not some blanket heuristic that you can apply and win boards. It's difficult to quantify when you should or shouldn't bid game, but there is at least *one* scenario that I can think of where you should almost never do this: when your hand is 5M332.
 
-I think there is this blaze of glory that people often look for when they play bridge. They want to nobly sacrifice when the opponents are bidding game, make some heroic read that opps are making it and that our dive will be cheaper than the value of their game. Or perhaps that our call will shut them out of the auction completely, let us play 4M when they were on for 5 or 6 of something and they get it wrong. *Or*, people perhaps just vastly overestimate the value of their trumps. In either case, I think the mundanity of it all is: most deals are not that exciting. Just bid the value of your hand.
+I think there is this blaze of glory that people often look for when they play bridge. They want to nobly sacrifice when the opponents are bidding game, make some heroic read that opps are making it and that our dive will be cheaper than the value of their game. Or perhaps that our call will shut them out of the auction completely, let us play 4M when they were on for 5 or 6 of something and they get it wrong. *Or*, people perhaps just vastly overestimate the value of their trumps. In either case, I think the mundanity of it all is: balanced hands are not that exciting. Just bid the value of your hand.
 
 And the value of that 5th trump when you are 5332? **Bad.**
 
