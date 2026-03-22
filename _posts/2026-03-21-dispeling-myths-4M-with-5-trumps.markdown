@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dispelling Beginner Myths: Bidding 4M with 5 card support"
-date:   2026-03-21 21:42:00 -0700
+date:   2026-03-21 01:42:00 -0700
 categories: bidding
 ---
 
