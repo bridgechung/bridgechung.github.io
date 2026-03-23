@@ -35,7 +35,7 @@ A takeout double shows 3+ card support in the outside suits and approximately an
 
 If you already know enough bridge to know about takeout doubles, then you know that my description is pretty mundane. What am I so upset about how people teach it? What is this myth?
 
-The myth is that it doesn't demand that partner bid or do anything else specific (beyond using their brain, at least.) A takeout double describes our own hand. Partner does the best he can with the information that he has.
+The myth is that it doesn't **demand** that partner bid or do anything else specific (beyond using their brain, at least.) A takeout double **describes** our own hand. Partner does the best he can with the information that he has.
 
 Let's say our hand is x AKxx JT9 KQxxx. LHO opens 2S and it goes pass pass to us. We have a pretty typical takeout double, so we double.
 
