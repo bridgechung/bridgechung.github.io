@@ -5,6 +5,8 @@ date:   2026-03-21 01:42:00 -0700
 categories: bidding
 ---
 
+[Read more for free on Patreon!](https://www.patreon.com/cw/BridgeChung)
+
 This is something that I once learned, and still see many people do. I believe I read it in a Goren book.
 
 Your partner opens 1M. You have 5 card support. You must now bid game! Either it will make, or it will be a good save.

@@ -5,6 +5,8 @@ date:   2026-03-18 21:42:00 -0700
 categories: bidding
 ---
 
+[Read more for free on Patreon!](https://www.patreon.com/cw/BridgeChung)
+
 One common thing that I see new players mess up is the takeout double. And I don't blame them. I have heard them mis-describe what a takeout double is, and no doubt, because someone else came and taught it to them that way.
 
 This applies to all levels of takeout doubles. There are further myths with regard to takeout doubler's rebids, but I want to start with the initial double itself. So to be clear, I am talking about auctions where the opponents open a suit at some level, and your first call is double. Here are some examples:
