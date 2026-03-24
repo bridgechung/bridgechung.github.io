@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dispelling Beginner Myths: The Takeout Double"
+title:  "Dispelling Beginner Myths: The Takeout Double Demands a Bid"
 date:   2026-03-18 21:42:00 -0700
 categories: bidding
 ---
