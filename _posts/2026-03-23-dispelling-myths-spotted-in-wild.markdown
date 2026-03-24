@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dispelling Beginner Myths: 5 card support 4M evidence"
-date:   2026-03-24 00:15:00 -0700
+date:   2026-03-23 00:15:00 -0700
 categories: bidding
 ---
 
