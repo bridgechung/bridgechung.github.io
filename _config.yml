@@ -29,8 +29,13 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #github_username:  bridgechung
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: jekyll/minima
+minima:
+  skin: dark
+  show_excerpts: true
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
 
 # Exclude from processing.
