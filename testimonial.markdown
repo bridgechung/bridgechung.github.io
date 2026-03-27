@@ -28,7 +28,7 @@ Donna Ryan
 
 ---
 
-![wen](/images/wenyangqi.png)
+![wen](/images/wenyangqi.jpg)
 
 Chris Chung (or kuhchung, his BBO name) love love LOVES bridge.  His enduring passion for the game and its deep complexities shines through every  interaction, but he never loses sight of how social and fun the game is either.  I first met him some fifteen years ago at the Stanford Bridge Club, and eventually we lost contact after I moved away.  Then almost 10 years later, I stumble upon his YouTube channel, we reconnect, and he welcomes me back with open arms!  He then connected me with several online bridge communities, and I too fall in love with bridge all over again.
 
