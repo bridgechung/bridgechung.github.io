@@ -33,7 +33,7 @@ I believe I understand why people teach it this way, and I really wish they woul
 
 Let me tell you what a takeout double is about 95% of the time.
 
-A takeout double shows 3+ card support in the outside suits and approximately an opening hand or better.*
+A takeout double shows 3+ card support in the outside suits and approximately an opening hand or better.[^1]
 
 If you already know enough bridge to know about takeout doubles, then you know that my description is pretty mundane. What am I so upset about how people teach it? What is this myth?
 
@@ -81,7 +81,7 @@ It gets more complicated as you get to higher and higher levels. Our side will s
 
 The main point is, a takeout double demands nothing. It shows our own hand, and partner does the best he can with the information he has.
 
-*I would actually teach anybody and everybody that you can have a doubleton in the unbid minor. But that can be saved for later.
+[^1]: I would actually teach anybody and everybody that you can have a doubleton in the unbid minor. But that can be saved for later.
 
 [Read more for free on Patreon!](https://www.patreon.com/cw/BridgeChung)
 
