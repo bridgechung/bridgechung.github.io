@@ -35,7 +35,7 @@ Are you still stuck? Let me try giving you a suggestion. Let's say EW take their
 
 > 1 - What if both players follow to 2 rounds of clubs?
 
-In scenario 1, you drew two rounds of trump (finding them 3-2) and played two rounds of clubs (also finding them 3-2). Hooray! Everything broke! Now go back and finish drawing trumps, then finish playing clubs. This is why I call this technique **There and back again.** We played two rounds of trumps, then went over **there** (clubs) to test the suit. When the suit breaks, we go **back again** to finish drawing trumps. We take 5 spades and 5 clubs.
+In scenario 1, you drew two rounds of trump (finding them 3-2) and played two rounds of clubs (also finding them 3-2). Hooray! Everything broke! Now go back and finish drawing trumps, then finish playing clubs. This is why I call this technique **There and Back Again.** We played two rounds of trumps, then went over **there** (clubs) to test the suit. When the suit breaks, we go **back again** to finish drawing trumps. We take 5 spades and 5 clubs.
 
 Now let's see what happens if one defender ruffs the second round of clubs when clubs were 4-1.
 
@@ -62,7 +62,7 @@ If you total up the three scenarios...
 2. When clubs broke badly, you still broke even for -1. You traded a defensive ruff for an offensive ruff.
 3. When clubs broke badly BUT the defender with short clubs did not have more than 2 trumps, we make the contract when the "naive" line fails.
 
-So **There and back again** breaks even with the naive line in most cases, and is pure upside in one specific case!
+So **There and Back Again** breaks even with the naive line in most cases, and is pure upside in one specific case!
 
 This is a recurring theme about managing trumps in trump contracts. Often, the defender that scores a ruff is the long hand in trumps, and the trick may come back.
 
