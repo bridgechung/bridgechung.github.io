@@ -58,7 +58,7 @@ Then *we* get to ruff the clubs good! In the diagram above, you play a 4th round
 
 If you total up the three scenarios...
 
-1. When both suits broke 3-2, you went **there and back again.** This line breaks even with the "naive" line of playing all the spades and all the clubs.
+1. When both suits broke 3-2, you went **There and Back Again.** This line breaks even with the "naive" line of playing all the spades and all the clubs.
 2. When clubs broke badly, you still broke even for -1. You traded a defensive ruff for an offensive ruff.
 3. When clubs broke badly BUT the defender with short clubs did not have more than 2 trumps, we make the contract when the "naive" line fails.
 
