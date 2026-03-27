@@ -42,7 +42,7 @@ Now let's see what happens if one defender ruffs the second round of clubs when 
 > 2 - What if one defender ruffs the second club? 
 
 ![taba3](/images/declarer-play-there-and-back-again-3.png)
-<p style="text-align: center;"><em>Bad news! East has ruffed the 3rd club. We are down 1. But wait...</em></p>
+<p style="text-align: center;"><em>Bad news! East has ruffed the 2nd club. We are down 1. But wait...</em></p>
 
 Are you thinking, "So what? We're down already." Yes, we lost 3 red tricks and a defensive ruff. But how exactly were you going to deal with your 4th round club loser? Remember, they broke badly in order for a defender to be able to ruff the second round. It doesn't matter if you draw a 3rd trump before playing clubs. You will just lose the 4th round of clubs instead. This is 9 tricks (5 spades, 4 clubs.)
 
