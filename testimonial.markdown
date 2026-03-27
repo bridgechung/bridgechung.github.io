@@ -28,12 +28,13 @@ Donna Ryan
 
 ---
 
-![wen](/images/wenyangqi.jpg)
 
 Chris Chung (or kuhchung, his BBO name) love love LOVES bridge.  His enduring passion for the game and its deep complexities shines through every  interaction, but he never loses sight of how social and fun the game is either.  I first met him some fifteen years ago at the Stanford Bridge Club, and eventually we lost contact after I moved away.  Then almost 10 years later, I stumble upon his YouTube channel, we reconnect, and he welcomes me back with open arms!  He then connected me with several online bridge communities, and I too fall in love with bridge all over again.
 
 I'd forgotten so much after a long time away from bridge, but playing with Chris has made re-learning the game a delight.  Every session I play with him is a fruitful learning experience.  Chris has incredible patience and clearly explains my mistakes without judgment, while taking note of repeat errors and correcting flawed thought processes as needed.  He has a deep familiarity with  conventional wisdom or "standard expert" options but also doesn't hesitate to refine them with his own (less orthodox) ideas molded from decades of experience.  His results as a competitive player prove that he knows what he is talking about :).  One of his greatest strengths is his open mind and lack of ego.  He tests new ideas and tracks their results with an objective eye, deciding whether to adopt them by the only metric that matters - the score at the duplicate table.
 
 As a teacher, Chris heavily emphasizes the importance of cardplay in bridge.  After all, bridge is a trick-taking game, and giving yourself more chances to win extra tricks is an evergreen skill.  Chris teaches solid, practical, consistent cardplay techniques and heuristics that will yield dividends for your bridge score and understanding of the game.  In fact, many of Chris' writings show that when applied at the highest level, the trick-taking potential informs the best bidding decisions too!
+
+![wen](/images/wenyangqi.jpg =250x250)
 
 Wenyang Qi
