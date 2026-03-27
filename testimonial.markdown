@@ -13,7 +13,7 @@ Director of Operations
 ---
 
 
-Chris Chung succeeds at teaching, because he communicates clearly. The reason you want to study with him is because he's patient,enthusiastic and fun. He doesn't only have knowledge he enjoys it and shares it generously.
+Chris Chung succeeds at teaching, because he communicates clearly. The reason you want to study with him is because he's patient, enthusiastic and fun. He doesn't only have knowledge; he enjoys it and shares it generously.
 
 Deborah Rosenblum
 
@@ -21,5 +21,7 @@ Deborah Rosenblum
 
 
 I highly recommend Chris as a bridge tutor and mentor. My bridge game has significantly improved, along with my confidence. He makes complex or elusive bridge concepts easier, using simple bridge logic and explanations I wish I had learned sooner. He is patient, positive and I love the learning format, playing out hands, post hoc discussions and great handouts. He is a great teacher and bridge player!
+
+The rest of us are out here reading 100s of books, all the different blogs. all the different teachers' explanations,  and we still don’t quite hear the logic... just the rules and guidelines. The pedagogy is out of control, sells a lot of books and ads, but explaining the reasoning simply as Chris does is really what we need.
 
 Donna Ryan
