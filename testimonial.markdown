@@ -35,6 +35,6 @@ I'd forgotten so much after a long time away from bridge, but playing with Chris
 
 As a teacher, Chris heavily emphasizes the importance of cardplay in bridge.  After all, bridge is a trick-taking game, and giving yourself more chances to win extra tricks is an evergreen skill.  Chris teaches solid, practical, consistent cardplay techniques and heuristics that will yield dividends for your bridge score and understanding of the game.  In fact, many of Chris' writings show that when applied at the highest level, the trick-taking potential informs the best bidding decisions too!
 
-<img src="/images/wenyangqi.jpg" width=145px; height=258px;/>
+<img src="/images/wenyangqi.jpg" width="145" height="258" />
 
 Wenyang Qi
