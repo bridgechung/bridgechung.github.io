@@ -27,7 +27,7 @@ If clubs are 3-2, you will have 10 tricks naturally. What if clubs are 4-1 thoug
 
 ![confused math lady](/images/confused-math-lady.webp)
 
-Are you still stuck? Let me try giving you a suggestion. Let's say EW take their 3 red tricks (doesn't matter). Now come two round of trumps. Both follow. Now try two rounds of clubs...
+Are you still stuck? Let me try giving you a suggestion. Let's say EW take their 3 red tricks (doesn't matter). Now come two rounds of trumps. Both follow. Now try two rounds of clubs...
 
 1. What if both players follow to 2 rounds of clubs?
 2. What if one defender ruffs the second club?
@@ -48,7 +48,7 @@ Now let's see what happens if one defender ruffs the second round of clubs when 
 
 Are you thinking, "So what? We're down already." Yes, we lost 3 red tricks and a defensive ruff. But how exactly were you going to deal with your 4th round club loser? Remember, they broke badly in order for a defender to be able to ruff the second round. It doesn't matter if you draw a 3rd trump before playing clubs. You will just lose the 4th round of clubs instead. This is 9 tricks (5 spades, 4 clubs.)
 
-But look at this! When they ruff the 2nd club, you don't actually lose a trick! In return, *you* will ruff the 4th round of clubs. This establishes your clubs for 9 total tricks - 5 spades, a club ruff, 3 clubs. You actually broke even. You can lose a ruff or you can lose a club.
+But look at this! When they ruff the 2nd club, you don't actually lose a trick! In return, *you* will ruff the 4th round of clubs. This establishes your clubs for 9 total tricks - 5 spades, 1 club ruff, 3 clubs. You actually broke even. You can lose a ruff or you can lose a club.
 
 And now, finally, scenario 3...
 
