@@ -5,9 +5,8 @@ date:   2026-03-25 00:15:00 -0700
 categories: play
 ---
 
-*I've been informed by Gonzalo that this is called the Guillemard maneuver. Sorry Guillemard, I like my name better. On with the article!*
 
-This is one of my favorite declarer play techniques, and I don't know if anyone's named it. It's certainly well known, but if you haven't seen it before, it's kind of hard to spot! I personally call it There and Back Again. Any Tolkien fans out there?
+This is one of my favorite declarer play techniques, and I don't know if anyone's named it[^1]. It's certainly well known, but if you haven't seen it before, it's kind of hard to spot! I personally call it There and Back Again. Any Tolkien fans out there?
 
 You land in 4S. Plan the play. Avid bridge readers will know that South is usually the declarer. Well, It's north here. Deal with it.
 
@@ -72,3 +71,5 @@ I showed this hand to a student, and he berated himself for not seeing obvious t
 
 [Read more for free on Patreon!](https://www.patreon.com/cw/BridgeChung)
 
+
+[^1]: I've been informed by Gonzalo that this is called the Guillemard maneuver. Sorry Guillemard, I like my name better. On with the article!
