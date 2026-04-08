@@ -145,7 +145,7 @@ Now let me change this hand just a little more.
 
 Wow, hell of a lead, partner! When dummy plays small, we contribute the *nine*, **lowest** of equivalents. Dummy's J is finessed, so our T9 are equivalents to the KQ too. When it holds the trick, partner will know what's up. Also, when we win the trick, we will continue with the K, **top of an honor sequence.**
 
-To be clear, Third Hand High (Enough) is only when following in third seat, and only when we are trying to actively contribute to the trick. Follow lowest of equivalents to give your side a chance to analyze the deal correctly and put up your best fighting chance! And once you understand this rule, you can understand when you should violate it, and the fact that partner will see your violation!
+In summary, Third Hand High (Enough) is only when following in third seat, and only when we are trying to actively contribute to the trick. Follow lowest of equivalents to give your side a chance to analyze the deal correctly and put up your best fighting chance! And once you understand this rule, you can understand when you should violate it, and the fact that partner will see your violation!
 
 [Read more for free on Patreon!](https://www.patreon.com/cw/BridgeChung)
 
