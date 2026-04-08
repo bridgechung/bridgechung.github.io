@@ -103,7 +103,7 @@ Unfortunately, partner cannot see our cards! If we play the Q, partner won't kno
 
 Well... it's a little more complicated than that. What if we were dealt the J and no higher honor? Then we would have to play J, third hand high, right? So what gives? What the hell is the point of this article?
 
-When third hand plays 3HH, the strictly correct interpretation is that third hand's card *denies* the card below. So when we follow the Q, it denies the J. When we follow the J, it does **not** promise the Q. It may *imply* it.
+When third hand plays 3HH, the strictly correct interpretation is that third hand's card *denies* the card below. So when we follow the Q, it denies the J. When we follow the J, it denies the T. It does **not** promise the Q. It may *imply* it.
 
 What if we had QJT instead of QJ3? Then we play the T. QJT95? Play the 9.
 
