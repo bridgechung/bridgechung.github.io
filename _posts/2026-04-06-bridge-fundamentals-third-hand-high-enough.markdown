@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Bridge Fundamentals: Third Hand High (Enough)"
