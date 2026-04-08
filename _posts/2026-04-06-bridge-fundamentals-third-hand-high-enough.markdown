@@ -11,7 +11,9 @@ Many partnership things in bridge are something you and partner discuss and deci
 > If I open 1S, I show 5+ spades and 12+ points.
 
 > If I play a small card, that's encouraging.
+>
 > "What about when declarer leads the suit?"
+>
 > Oh, then my small card shows an odd number.
 
 But Third Hand High (Enough) is one of the few things in bridge that is **not** a partnership agreement. It is simply the **only correct way** to play. This article talks about what to play from **equivalent** cards in third seat when attempting to win the trick.
