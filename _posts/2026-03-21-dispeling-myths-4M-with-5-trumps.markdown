@@ -66,7 +66,7 @@ This article focused on 5M332 shape, because it is uniquely bad in my experience
 There are more applications of this besides 5M332, and it's always the same story. 4M333 and 3M433 are even more obviously bad than 5M332. If your hand is flat, what are you ruffing? That is the whole purpose of a trump suit, after all. The one thing that extra trumps may do for you is reduce the number of trump losers, like if partner's missing the Q or something. But if you don't score ruffs... now we're slugging it out with pure HCP. I don't like fair fights in bridge, and I don't think you should either. Not if you're playing a high level contract.
 
 
-Jazi Zilber insightfully writes:
+Jazi Zilber insightfully comments:
 
 > Two more points.
 > 1. Daniel Kleineman says "balanced hands defend". Which is a nice general heuristic. With a balanced hand you mainly have you high cards, and those work as good in defence.
