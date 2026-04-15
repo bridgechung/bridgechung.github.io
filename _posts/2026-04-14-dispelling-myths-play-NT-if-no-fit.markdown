@@ -34,7 +34,7 @@ So what's the lesson in all of this? What can we take away?
 **NT is a very difficult strain!**[^2] There's a reason it's ranked the highest; it's the hardest to take a lot of tricks in!
 
 Roughly speaking, there are two kinds of good NT contracts.
-1. We have a majority of the high card points and have no good fit.
+1. We have a majority of the high card points, both hands are balanced-ish, and have no good fit.
 2. We have what I call a rip and run hand -- cash a solid long suit, bang out aces, and go home.
 
 This topic can get very complicated, so I want to leave you with a few guidelines in common auctions to avoid playing NT, even when you don't fit. *Particularly* when you don't fit.
