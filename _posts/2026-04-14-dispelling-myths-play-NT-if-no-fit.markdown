@@ -17,7 +17,7 @@ Let's take a look at another deal.
 
 We have Kx Q9x Q9xxx AJT. We deal and the auction goes:
 
-1D 1S
+1D 1S  
 1N 2H
 
 So partner has a hand like 5 spades and 4 hearts. You might hope partner has 5 hearts and pass. I would bid 2S and try to play the 5-2 or the 6-2.
