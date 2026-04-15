@@ -15,9 +15,7 @@ Would you believe it, down 2 or 3. Unlucky! Partner's suit was even nice: KQJTxx
 
 Let's take a look at another deal.
 
-We have Kx Q9x Q9xxx AJT. We open 1D, partner responds 1S. 1S promises 4, so we can't raise. It's also forcing, so we have to do something. 1N shows 12-14 balanced, which is what we have, so we bid that.
-
-Partner rebids 2H.
+We have Kx Q9x Q9xxx AJT. We open 1D, partner responds 1S. We rebid 1N, and partner rebids 2H.
 
 So partner bid spades first, then hearts. That shows longer or equal spades as hearts (imagine a hand like 5 spades and 4 hearts, the most typical shape.) Uh oh. We're at the 2 level and we don't appear to have a fit. We could pass 2H and hope that partner has 5. Actually, partner might even have 6 spades. Maybe we can try 2S?
 
