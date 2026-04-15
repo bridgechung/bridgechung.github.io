@@ -25,11 +25,11 @@ This is the full deal:
 
 ![no-fit-no-trump-2](/images/nfnt2.png)
 
-In 2NT on this club lead, it looks like the opponents are likely to take 3 clubs, 2 diamonds, 1 red trick, and 1 spade. That's 7 tricks for the defense! This is not *anywhere* close to making.
+In 2NT on the natural club lead, the opponents are entitled to 3 clubs, 2 diamonds, 1 red trick, and 1 spade. That's 7 tricks for the defense! This is not *anywhere* close to making.
 
-What about 2 spades as a contract? It looks bad, but I see 3 spade tricks, 2 heart tricks, a club is 6. And then the 13th heart may end up promoting a trump trick for us for 7. Or if spades behaved, we might gain another trick. (If spades/hearts behave in NT, it might end up kind of irrelevant. Crazy, huh?) Making/down 1 versus down 2 is a big deal! Also, opponents in the know will know how bad 2NT is, and are more likely to be double you. Especially on this auction.
+What about 2 spades? I see 3 spade tricks, 2 heart tricks, a club is 6. And then the 13th heart may end up promoting a trump trick for us for 7. Or if spades behaved, we might gain another trick. (If spades/hearts behave in NT, it ends up irrelevant. Crazy, huh?) Making/down 1 versus down 2 is a big deal! Also, opponents in the know will know how bad 2NT is, and are more likely to double you. Especially on this auction.
 
-So what's the lesson in all of this? What can we take away?
+So what lesson can we take away from all of this? 
 
 **NT is a very difficult strain!**[^2] There's a reason it's ranked the highest; it's the hardest to take a lot of tricks in!
 
