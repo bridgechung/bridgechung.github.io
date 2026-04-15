@@ -47,7 +47,7 @@ I had a Fourth Suit Forcing 1 round auction a few weeks ago, and it allowed us t
 ## Guideline 2
 > If partner preempts and you don't fit, you play partner's suit! 
 
-Take a look at the very first hand of the article. Did you notice anything? **4S is a great contract!** We are lucky that partner's suit is so good, but it doesn't take luck to see that partner's spades will be useless to us in 3N unless he has an entry to cash the suit after we set it up. But in spades, they will always be useful.
+Take a look at the very first hand of the article. Did you notice anything? **4S is a good contract,** especially on a non-club lead. We are lucky that partner's suit is so good, but it doesn't take luck to see that partner's spades will be useless to us in 3N unless he has an entry to cash the suit after we set it up. But in spades, they will always be useful.
 
 Believe it or not, NT opposite partner's preempt is when you *do* fit, or have no fit but literally have 9 tricks in your own hand! It's a rip and run 3NT!
 
