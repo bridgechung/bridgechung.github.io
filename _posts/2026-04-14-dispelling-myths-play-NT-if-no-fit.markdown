@@ -54,7 +54,7 @@ Believe it or not, NT opposite partner's preempt is when you *do* fit, or have n
 I wrote an [article on my Patreon](https://www.patreon.com/posts/evaluating-153703258) about hand evaluation, and how true hand evaluation comes from not counting length or shortness or fractional points, but from experience in trick taking and cardplay. All of this is an extension of that.
 
 ## Bonus Hand
-Captain, take a look at this. How would you rate 3N vs 4S?
+Captain, take a look at this. How would you rate NT vs spades?
 ![nfnt3](/images/nfnt3.png)
 
 ---
