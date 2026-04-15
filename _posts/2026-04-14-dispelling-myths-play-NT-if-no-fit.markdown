@@ -57,7 +57,7 @@ Take a look at the very first hand of the article. Did you notice anything? **4S
 
 For partner's preemptive hand to have any value in 3NT, either we expect to run his suit, or we expect to run our own secret suit! This is a rip and run!
 
-I wrote an [article on my Patreon](https://www.patreon.com/posts/evaluating-153703258) about hand evaluation, and how true hand evaluation comes from not counting length or shortness or fractional points, but from experience in trick taking and cardplay. All of this is an extension of that.
+I wrote an [article on my Patreon](https://www.patreon.com/posts/evaluating-153703258) about hand evaluation, and how true hand evaluation comes from not counting length or shortness or fractional points, but from experience in trick taking and cardplay. Years of getting burnt playing underpowered or inappropriate NTs led to these well-known guidelines.
 
 ## Bonus Hand
 Captain, take a look at this. How would you rate NT vs spades?
@@ -70,6 +70,8 @@ PS.
 On the first hand, it is difficult to figure out what the best contract is with the South hand during the bidding. If partner shows bad suit good hand, then we may try 3NT. If partner shows a good suit, we need to be in spades. Regardless, the main thrust is that we cannot simply choose NT because we don't fit. 
 
 ---
+
+### Footnotes
 
 [^1]: Partner described his hand.
 
