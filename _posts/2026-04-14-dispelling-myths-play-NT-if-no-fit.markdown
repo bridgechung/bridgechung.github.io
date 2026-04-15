@@ -15,7 +15,10 @@ Would you believe it, down 2 or 3. Unlucky! Partner had a good suit: KQJTxx. Wha
 
 Let's take a look at another deal.
 
-We have Kx Q9x Q9xxx AJT. We open 1D, partner responds 1S. We rebid 1N, and partner rebids 2H.
+We have Kx Q9x Q9xxx AJT. We deal and the auction goes:
+
+1D 1S
+1N 2H
 
 So partner has a hand like 5 spades and 4 hearts. You might hope partner has 5 hearts and pass. I would bid 2S and try to play the 5-2 or the 6-2.
 
@@ -25,7 +28,7 @@ This is the full deal:
 
 ![no-fit-no-trump-2](/images/nfnt2.png)
 
-In 2NT on the natural club lead, the opponents are entitled to 3 clubs, 2 diamonds, 1 red trick, and 1 spade. That's 7 tricks for the defense! This is not *anywhere* close to making.
+In 2NT on the natural club lead, the opponents are entitled to 3 clubs, 2 diamonds, 1 red trick, and 1 spade. That's 7 tricks for the defense! This is not *anywhere* close to making. (I could have been a *lot* meaner! Move a diamond honor to E and give somebody 5 clubs...)
 
 What about 2S? I see 3 spade tricks, 2 heart tricks, a club is 6. The 13th heart promotes a trump trick for us for 7. If spades behaved, we would gain a natural spade trick. (It's irrelevant if spades/hearts behave in NT. Crazy, huh?) Making/down 1 versus down 2 is a big deal! Also, opponents in the know will know how bad 2NT is, and are more likely to double you. Especially on this auction.
 
