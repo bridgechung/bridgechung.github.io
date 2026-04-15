@@ -42,9 +42,11 @@ Roughly speaking, there are two kinds of good NT contracts.
 This topic can get very complicated, so I want to leave you with a few guidelines in common auctions to avoid playing NT, even when you don't fit. *Particularly* when you don't fit.
 
 1. You should prefer a 5-2 fit to an underpowered NT.
+
 I had a Fourth Suit Forcing 1 round auction a few weeks ago, and it allowed us to stop in 2M on a 5-2 fit. I gleefully announced that I was allowed to do so instead of playing 2N, and then recoiled in horror when trumps broke 5-1. And then I made it. They couldn't stop me. When I looked at the hand, 2NT has *no* play. It is that dire!
 
 2. If partner preempts and you don't fit, you play partner's suit! 
+
 Take a look at the very first hand of the article. Did you notice anything? **4S is a great contract!** We are lucky that partner's suit is so good, but it doesn't take luck to see that partner's spades will be useless to us in 3N unless he has an entry to cash the suit after we set it up. But in spades, they will always be useful.
 
 Believe it or not, NT opposite partner's preempt is when you *do* fit, or have no fit but literally have 9 tricks in your own hand! It's a rip and run 3NT!
