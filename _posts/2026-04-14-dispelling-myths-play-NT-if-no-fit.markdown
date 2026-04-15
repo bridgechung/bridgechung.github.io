@@ -17,7 +17,7 @@ Let's take a look at another deal.
 
 We have Kx Q9x Q9xxx AJT. We open 1D, partner responds 1S. We rebid 1N, and partner rebids 2H.
 
-So partner bid spades first, then hearts. That shows longer or equal spades as hearts (imagine a hand like 5 spades and 4 hearts, the most typical shape.) Uh oh. We're at the 2 level and we don't appear to have a fit. We could pass 2H and hope that partner has 5. Actually, partner might even have 6 spades. Maybe we can try 2S?
+So partner has a hand like 5 spades and 4 hearts. You might hope partner has 5 hearts and pass. I would bid 2S and try to play the 5-2 or the 6-2.
 
 The one bid you should *not* make? 2N.
 
