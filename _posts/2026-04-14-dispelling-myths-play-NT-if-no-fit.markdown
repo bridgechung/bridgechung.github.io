@@ -27,7 +27,7 @@ This is the full deal:
 
 In 2NT on the natural club lead, the opponents are entitled to 3 clubs, 2 diamonds, 1 red trick, and 1 spade. That's 7 tricks for the defense! This is not *anywhere* close to making.
 
-What about 2 spades? I see 3 spade tricks, 2 heart tricks, a club is 6. And then the 13th heart may end up promoting a trump trick for us for 7. Or if spades behaved, we might gain another trick. (If spades/hearts behave in NT, it ends up irrelevant. Crazy, huh?) Making/down 1 versus down 2 is a big deal! Also, opponents in the know will know how bad 2NT is, and are more likely to double you. Especially on this auction.
+What about 2S? I see 3 spade tricks, 2 heart tricks, a club is 6. The 13th heart promotes a trump trick for us for 7. If spades behaved, we would gain a natural spade trick. (If spades/hearts behave in NT, it ends up irrelevant. Crazy, huh?) Making/down 1 versus down 2 is a big deal! Also, opponents in the know will know how bad 2NT is, and are more likely to double you. Especially on this auction.
 
 So what lesson can we take away from all of this? 
 
