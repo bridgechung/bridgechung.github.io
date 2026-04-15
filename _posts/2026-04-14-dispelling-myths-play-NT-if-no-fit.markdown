@@ -63,6 +63,8 @@ PS.
 
 On the first hand, it actually is pretty difficult to figure out what the best contract is with the South hand during the bidding. If partner shows something like bad suit good hand, then okay, maybe now we try 3NT. Or if partner shows good suit bad hand, we definitely want to play some level of spades.  But the main thrust of the article is that we cannot simply choose NT just because we don't fit. 
 
+---
+
 [^1]: It always annoys me a little when people say that partner preempted them. No, partner described his hand. Responder just happened to have some sort of opening hand that didn't get to open, that's all. It might make *some* decisions a little harder, but often it's an autopass.
 
 [^2]: Strain just means clubs, diamonds, hearts, spades, or NT as a contract. It's an all-inclusive word for trumps that also includes NT.
