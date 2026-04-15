@@ -11,7 +11,7 @@ Partner preempts a pretty classical 2S and we have x AQJ AKxxx AJxx. 19 points, 
 
 Would you believe it, down 2 or 3. Unlucky! Partner's suit was even nice: KQJTxx. What happened? Is 25 HCP not enough for 3N?
 
-[no-fit-no-trump-1](/images/nfnt1.png)
+![no-fit-no-trump-1](/images/nfnt1.png)
 
 Let's take a look at another deal.
 
@@ -25,7 +25,7 @@ I would bid 2S now, but I can tell you the one thing you should *not* bid: 2N.
 
 This is the full deal:
 
-[no-fit-no-trump-2](/images/nfnt2.png)
+![no-fit-no-trump-2](/images/nfnt2.png)
 
 In 2NT on this club lead, it looks like the opponents are likely to take 3 clubs, 3 diamonds, 1 spade, and 1 heart. That's 8 tricks for the defense! Of course, maybe declarer will get one more or one less, but this is not *anywhere* close to making.
 
@@ -53,7 +53,7 @@ I wrote an [article on my Patreon](https://www.patreon.com/posts/evaluating-1537
 
 ## Bonus Hand
 Captain, take a look at this. How would you rate 3N vs 4S?
-[nfnt3](/images/nfnt3.png)
+![nfnt3](/images/nfnt3.png)
 
 [^1]: It always annoys me a little when people say that partner preempted them. No, partner described his hand. Responder just happened to have some sort of opening hand that didn't get to open, that's all. It might make *some* decisions a little harder, but often it's an autopass.
 
