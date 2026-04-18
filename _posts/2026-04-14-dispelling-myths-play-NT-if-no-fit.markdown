@@ -34,6 +34,8 @@ What about 2S? I see 3 spade tricks, 2 heart tricks, a club is 6. The 13th heart
 
 So what lesson can we take away from all of this? 
 
+> No fit does not mean no trumps!
+
 **NT is a very difficult strain!**[^2] There's a reason it's ranked the highest; it's the hardest to take a lot of tricks in!
 
 Roughly speaking, there are two kinds of good NT contracts.
