@@ -6,7 +6,7 @@ categories: play
 ---
 
 
-This is one of my favorite declarer play techniques, and I don't know if anyone's named it[^1]. It's certainly well known, but if you haven't seen it before, it's kind of hard to spot! I personally call it There and Back Again. Any Tolkien fans out there?
+This is one of my favorite declarer play techniques, and I don't know if anyone's named it[^1]. It's certainly well known, but if you haven't seen it before, it's hard to spot! I call it There and Back Again. Any Tolkien fans out there?
 
 You land in 4S. Plan the play. Avid bridge readers will know that South is usually the declarer. Well, It's north here. Deal with it.
 
@@ -47,7 +47,7 @@ Now let's see what happens if one defender ruffs the second round of clubs when 
 
 Are you thinking, "So what? We're down already." Yes, we lost 3 red tricks and a defensive ruff. But how exactly were you going to deal with your 4th round club loser? Remember, they broke badly in order for a defender to be able to ruff the second round. It doesn't matter if you draw a 3rd trump before playing clubs. You will just lose the 4th round of clubs instead. This is 9 tricks (5 spades, 4 clubs.)
 
-But look at this! When they ruff the 2nd club, you don't actually lose a trick! In return, *you* will ruff the 4th round of clubs. This establishes your clubs for 9 total tricks - 5 spades, 1 club ruff, 3 clubs. You actually broke even. You can lose a ruff or you can lose a club.
+But look at this! When they ruff the 2nd club, you don't actually lose a trick! In return, *you* will ruff the 4th round of clubs. This establishes your clubs for 9 total tricks - 5 spades, 1 club ruff, 3 clubs. You break even. You can lose a ruff or you can lose a club.
 
 And now, finally, scenario 3...
 
