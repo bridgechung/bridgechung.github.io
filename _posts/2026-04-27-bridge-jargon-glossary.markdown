@@ -96,7 +96,7 @@ Like Nth. I haven't heard this used in a long time though.
 > He held the K five times.
 
 ### and 1, dub
-When a basketball shooter is fouled on the play and gets to take 1 extra free throw.
+When a basketball shooter is fouled on the play but makes the shot, and gets to take 1 extra free throw.
 
 No, it's a way of describing a doubleton. King and one, Jack and one, etc.
 
@@ -104,6 +104,13 @@ Or King dub, Queen dub.
 
 ### Moose, rock crusher
 A very, very good hand. Usually tons of high card points, but also tricks.
+
+### Texture, Purity
+Whether the hand has honors and good spot cards in its long suits or its short suits
+
+K xxxxx xxxxx AK has very poor texture or purity.
+
+x AKxxx KT9xx xx has very good texture or purity.
 
 ## On the subject of finesses and cardplay
 ### Finesse
@@ -146,15 +153,21 @@ Failing to follow suit and playing a plain suit.
 ### Sluff
 Same as pitch. Rarely used unless it's in conjunction with ruff, e.g. ruff and sluff.
 
-## On the subject of bidding and conventions
-### Strain
-An all inclusive word for trumps that includes NT. The strains are clubs, diamonds, hearts, spades, NT.
+## On the subject of second hand play
+### Split
+To play a high card from touching cards in second seat.
+> He split the J from JT9.
 
-### Bid
-A bid! A bid is a number followed by a strain.
+### Duck
+To play a small card when there was an opportunity to win.
+> You have to duck the Ace twice.
 
-### Call
-An all inclusive word for any bid you can make at the bridge table. This includes pass, double, redouble.
+### Cover
+Playing an honor over an opponent's played honor.
+> Cover an honor with an honor!
+
+### Fly, Hop, Left Jab, Sky
+Playing second hand high.
 
 ### Drop
 When a significant card falls underneath another.
@@ -176,6 +189,29 @@ When one sides honors are spent on the same trick. May or may not be forced.
 
 > Partner flew the King and crashed my Queen!
 
+## On the subject of bidding and conventions
+### Strain
+An all inclusive word for trumps that includes NT. The strains are clubs, diamonds, hearts, spades, NT.
+
+### Bid
+A bid! A bid is a number followed by a strain.
+
+### Call
+An all inclusive word for any bid you can make at the bridge table. This includes pass, double, redouble.
+
+### Punt, Wiggle
+A call that shows nothing. Used to buy time/try to get partner to bid something.
+
+### Grunt
+A nebulous minimum opening bid. Something like 1D showing 2+ diamonds and 11-15 points.
+
+### Drop, Bail
+To end the auction in some contract.
+
+> Partner opened 1NT and I dropped him in 2S
+
+> They tried to double us in 2H but partner bailed to 3C!
+
 ## On the subject of bridge scores
 ### Kiss of Death
 A bridge score of 200. At matchpoints, +200 is often a top/-200 is a bottom.
@@ -184,7 +220,8 @@ A bridge score of 200. At matchpoints, +200 is often a top/-200 is a bottom.
 A score of 1100. Two sticks, two wheels.
 
 ### Going for a number, a telephone number
-A large penalty. I suspect the etymology is because 800 is a telephone number.
+A large penalty. I suspect the etymology is because 800 is a telephone number.  
+Edit: piggrass informs me that telephone numbers used to be four digits!
 
 ### Top
 A very good matchpoint score. Taken literally, it means 100%, but often is used as hyperbole/approximation. To emphasize a full 100%, people often use an adjective along with top. A cold top, a complete top, tippy top, etc.
@@ -215,3 +252,14 @@ Parentheses are used to describe shape that is interchangeable within the parens
 ### Dash vs Equal
 5-4-3-1 is synonymous with 5431: any 5431 shape.  
 5=4=3=1 is exactly 5 spades, 4 hearts, 3 diamonds, 1 club.
+
+## On the subject of Total Nonsense
+### SDAM
+A weird joke about how Six Diamonds Always Makes.
+
+### Both Sides Favorable
+Just chew on that one for a while.
+
+### British terms to describe the four vulnerability combinations
+Oh just bugger off.
+
