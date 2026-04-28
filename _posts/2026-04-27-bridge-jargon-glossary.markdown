@@ -324,5 +324,8 @@ The D7 is known as the beer card. Roughly speaking (people play by different rul
 
 Same for the defense if they set the contract.
 
+### Australian Push
+A difference of 4 or fewer imps. Maybe the number is different, but you get the idea :)
+
 ### The rule of N
 All those rules are mostly nonsense. Rule of 11 is accurate.
