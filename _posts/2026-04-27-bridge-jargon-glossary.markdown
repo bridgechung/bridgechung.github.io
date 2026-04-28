@@ -314,15 +314,17 @@ Parentheses are used to describe shape that is interchangeable within the parens
 A weird joke about how Six Diamonds Always Makes.
 
 ### Both Sides Favorable
-Just chew on that one for a while.
+Chew on that one for a while.
 
 ### British terms to describe the four vulnerability combinations
-Oh just bugger off.
+Oh bugger off, ya wanker.
 
 ### The Beer Card
 The D7 is known as the beer card. Roughly speaking (people play by different rules, but these should be universal), if you make your contract as declarer and the D7 was your final winning trick, partner owes you a beer. Diamonds may not be trumps.
 
 Same for the defense if they set the contract.
+
+The most important asset in Bridge Brawl.
 
 ### Australian Push
 A difference of 4 or fewer imps. Maybe the number is different, but you get the idea :)
