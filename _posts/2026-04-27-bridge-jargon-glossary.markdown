@@ -330,7 +330,7 @@ Same for the defense if they set the contract.
 The most important asset in Bridge Brawl.
 
 ### Australian Push
-A difference of 4 or fewer imps. Maybe the number is different, but you get the idea :)
+A difference of 7 or fewer imps. Maybe the number is different (higher?), but you get the idea.
 
 ### The rule of N
 All those rules are mostly nonsense. Rule of 11 is accurate.
