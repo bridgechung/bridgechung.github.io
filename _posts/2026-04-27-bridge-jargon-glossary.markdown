@@ -329,3 +329,15 @@ A difference of 4 or fewer imps. Maybe the number is different, but you get the 
 
 ### The rule of N
 All those rules are mostly nonsense. Rule of 11 is accurate.
+
+### "Standard", "No Agreement"
+Alright, keep your secrets.
+
+### DSIP
+Do Something Intelligent, Partner. See Blame Transfer below.
+
+### Blame Transfer
+Making it so that your partner makes the final mistake.
+
+### Cuebid
+AN OVERLOADED TERM WHY DO WE CALL CONTROL BIDS CUEBIDS AS WELL
