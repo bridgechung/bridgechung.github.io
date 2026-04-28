@@ -295,6 +295,9 @@ Edit: piggrass informs me that telephone numbers used to be four digits!
 ### Top
 A very good matchpoint score. Taken literally, it means 100%, but often is used as hyperbole/approximation. To emphasize a full 100%, people often use an adjective along with top. A cold top, a complete top, tippy top, etc.
 
+### Push
+At imps, a board with no swing (no imps gained or lost.)
+
 ## On the subject of written notation
 ### Suit Order
 When suits are not notated (and they should not be; it makes it harder to read), the implicit order is SHDC.
