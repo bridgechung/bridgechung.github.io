@@ -333,7 +333,7 @@ The most important asset in Bridge Brawl.
 A difference of 7 or fewer imps. Maybe the number is different (higher?), but you get the idea.
 
 ### The rule of N
-All those rules are mostly nonsense. Rule of 11 is accurate.
+Hey, I have a bridge to sell you!
 
 ### "Standard", "No Agreement"
 Alright, keep your secrets.
