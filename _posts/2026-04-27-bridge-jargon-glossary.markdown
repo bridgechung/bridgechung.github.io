@@ -365,3 +365,7 @@ Describing to your partner how obvious it was to make it.
 ### Frigid
 Really, REALLY obvious.
 
+### Lurker Check
+How to save face when you draw an extra round of trump after everyone's out.
+
+> Lurker Check, haha!
