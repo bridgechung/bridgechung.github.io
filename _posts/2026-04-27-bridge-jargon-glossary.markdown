@@ -72,10 +72,18 @@ Okay nobody says this. We always say stiff Jack.
 
 8-4 shape.
 
-### Nth
-3rd, 4th, 6th, etc. The length of a suit when we narrate a hand. The spots are assumed to be small/irrelevant.
+### Nth, N to the <card>, N dead, N bagger
+All of these are ways to narrate suit lengths.
+
+3 dead, 4 bagger, 5 to the Q, Q fifth.
+
+The implication is that the spot cards are small/irrelevant.
 
 > I held Queen Jack sixth.
+
+> I had a 5 bagger.
+
+> I held 5 to the Queen.
 
 ### Empty Nth
 Like Nth, but emphasizing the uselessness of the spots.
@@ -86,6 +94,11 @@ Like Nth, but emphasizing the uselessness of the spots.
 Like Nth. I haven't heard this used in a long time though.
 
 > He held the K five times.
+
+### and 1
+When a basketball shooter is fouled on the play and gets to take 1 extra free throw.
+
+No, it's a way of describing a doubleton. King and one, Jack and one, etc.
 
 ## On the subject of finesses and cardplay
 ### Finesse
@@ -119,20 +132,16 @@ Antonym of onside.
 A suit that is not trumps.
 
 ### Ruff
-
 A verb synonym of trump.
 > Declarer led a heart and ruffed it.
 
-### Sluff
+### Pitch
+Failing to follow suit and playing a plain suit.
 
-Failing to follow suit and playing a plain suit. Rarely used unless it's in conjunction with ruff, e.g. ruff and sluff.
-> He sluffed a diamond instead of ruffing my winner!
+### Sluff
+Same as pitch. Rarely used unless it's in conjunction with ruff, e.g. ruff and sluff.
 
 ## On the subject of bidding and conventions
-### Chicken Texas (sillyish but also accurate)
-
-Texas Transfers are a commonly played convention where 4D shows hearts and 4H shows spades. Sometimes, if we're worried that partner may not understand that 4H shows spades, we might bid 4S ourselves. So 4D shows hearts, 4H shows spades but we're chicken, so we bid 4S.
-
 ### Strain
 An all inclusive word for trumps that includes NT. The strains are clubs, diamonds, hearts, spades, NT.
 
@@ -155,8 +164,23 @@ A large penalty. I suspect the etymology is because 800 is a telephone number.
 ### Top
 A very good matchpoint score. Taken literally, it means 100%, but often is used as hyperbole/approximation. To emphasize a full 100%, people often use an adjective along with top. A cold top, a complete top, tippy top, etc.
 
+### Hit it, blood, business, whack, wield the axe, drop the hammer
+Doubling for penalty.
+
+### Convert, sit
+When partner makes a takeout double, but you **convert** it to penalty by passing.
+
+### Hit it back, send it back
+Redoubling for penalty.
+
+### Chicken Texas (sillyish but also accurate)
+
+Texas Transfers are a commonly played convention where 4D shows hearts and 4H shows spades. Sometimes, if we're worried that partner may not understand that 4H shows spades, we might bid 4S ourselves. So 4D shows hearts, 4H shows spades but we're chicken, so we bid 4S.
 
 ## On the subject of written notation
+### Suit Order
+When suits are not notated (and they should not be; it makes it harder to read), the implicit order is SHDC.
+
 ### Parentheses
 Parentheses are used to describe shape that is interchangeable within the parens. (31)(54) means 31 in the majors either way around, 54 in the minors either way around.
 
