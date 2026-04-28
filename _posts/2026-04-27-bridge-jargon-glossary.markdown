@@ -203,6 +203,9 @@ When one sides honors are spent on the same trick. May or may not be forced.
 
 > Partner flew the King and crashed my Queen!
 
+### Idiot Coup
+Trying to get your opponents to crash their top honors.
+
 ### Grosvenor
 A play that can never ever gain, but does not cost because your opponents give it back to you because they cannot fathom that you have made such a huge blunder.
 
@@ -349,3 +352,16 @@ Taking an anti-percentage play because you're psychic. See? That's how you use t
 
 ### SOS
 How to get into even more trouble than you're already in.
+
+### UBH
+use brain H
+
+### Well, it had play
+You went down. It was bad.
+
+### Cold
+Describing to your partner how obvious it was to make it.
+
+### Frigid
+Really, REALLY obvious.
+
