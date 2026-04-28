@@ -346,3 +346,6 @@ AN OVERLOADED TERM WHY DO WE CALL CONTROL BIDS CUEBIDS AS WELL
 
 ### Table Feel
 Taking an anti-percentage play because you're psychic. See? That's how you use the word "psychic."
+
+### SOS
+How to get into even more trouble than you're already in.
