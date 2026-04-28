@@ -72,6 +72,12 @@ Okay nobody says this. We always say stiff Jack.
 
 8-4 shape.
 
+### Quack
+A queen or a jack.
+
+### Bullet
+An Ace.
+
 ### Nth, N to the card, N dead, N bagger
 All of these are ways to narrate suit lengths.
 
@@ -212,6 +218,22 @@ To end the auction in some contract.
 
 > They tried to double us in 2H but partner bailed to 3C!
 
+### Psych
+Often spelled "psyche" by bridge players. Maybe we're all fortune tellers or something.
+
+A bid that is a deliberate and gross distortion of your hand. The intent (deliberate) is significant.
+
+It's short for "psychic," which also makes no sense. Yes I know the origin and it still makes no sense don't @ me I will not be taking further questions.
+
+### Swish
+When a bid gets passed out.
+
+> What was the auction?
+> 4S swish.
+
+### Check
+Pass. Poker players, am I right?
+
 ## On the subject of bridge scores
 ### Kiss of Death
 A bridge score of 200. At matchpoints, +200 is often a top/-200 is a bottom.
@@ -263,3 +285,10 @@ Just chew on that one for a while.
 ### British terms to describe the four vulnerability combinations
 Oh just bugger off.
 
+### The Beer Card
+The D7 is known as the beer card. Roughly speaking (people play by different rules, but these should be universal), if you make your contract as declarer and the D7 was your final winning trick, partner owes you a beer. Diamonds may not be trumps.
+
+Same for the defense if they set the contract.
+
+### The rule of N
+All those rules are mostly nonsense. Rule of 11 is accurate.
