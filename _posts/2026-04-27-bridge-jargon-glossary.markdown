@@ -145,6 +145,14 @@ See onside.
 
 Antonym of onside.
 
+### Chinese Finesse
+Leading an honor as an illegitimate finesse. For example, leading Q from Qxx toward Axx.
+
+I'm Chinese, you can say it. I give you permission.
+
+### Practice Finesse
+Taking a finesse that cannot gain a trick and can only cost a trick. Your finesse was for *practice.*
+
 ### Plain suit
 
 A suit that is not trumps.
@@ -195,6 +203,29 @@ When one sides honors are spent on the same trick. May or may not be forced.
 
 > Partner flew the King and crashed my Queen!
 
+### Grosvenor
+A play that can never ever gain, but does not cost because your opponents give it back to you because they cannot fathom that you have made such a huge blunder.
+
+Guys you have to read the article. It's my favorite piece of bridge literature ever.
+
+[Grosvenor Gambit](https://www.bridgebum.com/grosvenor.php)
+
+### Greek Gift
+Giving declarer something that he cannot do himself (like a finesse) in an attempt to harm him should he accept it. For example, if the honor is offside and he cannot finesse and will be forced to drop it, so you give him the finesse.
+
+### Nullo
+A line of play that is strictly dominated by another. (This is a bad thing.)
+
+### Miami Endplay
+In a 3 card ending, instead of endplaying your opponent, you endplay yourself!
+
+```
+  --- Q92
+  AJ8
+```
+
+You can exit the 8 and achieve an endplay. Or you can cash the A and achieve a Miami Endplay.
+
 ## On the subject of bidding and conventions
 ### Strain
 An all inclusive word for trumps that includes NT. The strains are clubs, diamonds, hearts, spades, NT.
@@ -234,20 +265,6 @@ When a bid gets passed out.
 ### Check
 Pass. Poker players, am I right?
 
-## On the subject of bridge scores
-### Kiss of Death
-A bridge score of 200. At matchpoints, +200 is often a top/-200 is a bottom.
-
-### Sticks and Wheels
-A score of 1100. Two sticks, two wheels.
-
-### Going for a number, a telephone number
-A large penalty. I suspect the etymology is because 800 is a telephone number.  
-Edit: piggrass informs me that telephone numbers used to be four digits!
-
-### Top
-A very good matchpoint score. Taken literally, it means 100%, but often is used as hyperbole/approximation. To emphasize a full 100%, people often use an adjective along with top. A cold top, a complete top, tippy top, etc.
-
 ### Hit it, blood, business, whack, wield the axe, drop the hammer
 Doubling for penalty.
 
@@ -263,6 +280,20 @@ A double that announces values and intent to penalize.
 ### Chicken Texas (sillyish but also accurate)
 
 Texas Transfers are a commonly played convention where 4D shows hearts and 4H shows spades. Sometimes, if we're worried that partner may not understand that 4H shows spades, we might bid 4S ourselves. So 4D shows hearts, 4H shows spades but we're chicken, so we bid 4S.
+
+## On the subject of bridge scores
+### Kiss of Death
+A bridge score of 200. At matchpoints, +200 is often a top/-200 is a bottom.
+
+### Sticks and Wheels
+A score of 1100. Two sticks, two wheels.
+
+### Going for a number, a telephone number
+A large penalty. I suspect the etymology is because 800 is a telephone number.  
+Edit: piggrass informs me that telephone numbers used to be four digits!
+
+### Top
+A very good matchpoint score. Taken literally, it means 100%, but often is used as hyperbole/approximation. To emphasize a full 100%, people often use an adjective along with top. A cold top, a complete top, tippy top, etc.
 
 ## On the subject of written notation
 ### Suit Order
