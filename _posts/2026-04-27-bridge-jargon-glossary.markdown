@@ -204,7 +204,7 @@ When one sides honors are spent on the same trick. May or may not be forced.
 > Partner flew the King and crashed my Queen!
 
 ### Idiot Coup
-Trying to get your opponents to crash their top honors.
+Trying to get your opponents to crash their top honors. Usually Kx -- A
 
 ### Grosvenor
 A play that can never ever gain, but does not cost because your opponents give it back to you because they cannot fathom that you have made such a huge blunder.
