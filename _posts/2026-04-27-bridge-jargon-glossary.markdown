@@ -369,3 +369,9 @@ Really, REALLY obvious.
 How to save face when you draw an extra round of trump after everyone's out.
 
 > Lurker Check, haha!
+
+### Expert Standard
+How to justify all of your (incorrect) bidding.
+
+### I'll poll this on BW
+Yeah, that'll go well.
