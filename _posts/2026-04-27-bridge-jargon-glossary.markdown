@@ -140,7 +140,7 @@ A suit that is not trumps.
 A verb synonym of trump.
 > Declarer led a heart and ruffed it.
 
-### Pitch
+### Pitch, Toss, Shake, Shed, Throw, etc.
 Failing to follow suit and playing a plain suit.
 
 ### Sluff
