@@ -373,5 +373,5 @@ How to save face when you draw an extra round of trump after everyone's out.
 ### Expert Standard
 How to justify all of your (incorrect) bidding.
 
-### I'll poll this on BW
+### You want me to poll this on BridgeWinners!? I'll poll this on BridgeWinners!!
 Yeah, that'll go well.
