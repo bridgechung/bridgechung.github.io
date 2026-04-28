@@ -342,7 +342,7 @@ Alright, keep your secrets.
 Do Something Intelligent, Partner. See Blame Transfer below.
 
 ### Blame Transfer
-Setting up your partner makes the final mistake.
+Setting up your partner to make the final mistake.
 
 ### Cuebid
 AN OVERLOADED TERM WHY DO WE CALL CONTROL BIDS CUEBIDS AS WELL
