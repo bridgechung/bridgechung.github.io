@@ -22,7 +22,7 @@ Four numbers that add to 13. 4432, 5332, 5431, et al. This is the "shape" of a h
 > Diamonds were 4333 around the table.
 
 ### Fit
-Two numbers that describe declarer's trump length.
+Two numbers that describe declarer's and dummy's trump length.
 > I played the 4-4 diamond fit instead of the 5-4 heart fit.
 
 ### Break
