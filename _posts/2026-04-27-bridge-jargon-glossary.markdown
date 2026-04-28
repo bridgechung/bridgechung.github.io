@@ -95,10 +95,15 @@ Like Nth. I haven't heard this used in a long time though.
 
 > He held the K five times.
 
-### and 1
+### and 1, dub
 When a basketball shooter is fouled on the play and gets to take 1 extra free throw.
 
 No, it's a way of describing a doubleton. King and one, Jack and one, etc.
+
+Or King dub, Queen dub.
+
+### Moose, rock crusher
+A very, very good hand. Usually tons of high card points, but also tricks.
 
 ## On the subject of finesses and cardplay
 ### Finesse
@@ -151,6 +156,26 @@ A bid! A bid is a number followed by a strain.
 ### Call
 An all inclusive word for any bid you can make at the bridge table. This includes pass, double, redouble.
 
+### Drop
+When a significant card falls underneath another.
+> He dropped my Kingleton offside!
+
+### Pin
+When first seat plays a highish card and drops a significant card from 4th seat.
+
+```
+   AQ876
+K32 --- T
+   J954
+```
+
+If south leads the J, the T will get **pinned**.
+
+### Crash
+When one sides honors are spent on the same trick. May or may not be forced.
+
+> Partner flew the King and crashed my Queen!
+
 ## On the subject of bridge scores
 ### Kiss of Death
 A bridge score of 200. At matchpoints, +200 is often a top/-200 is a bottom.
@@ -172,6 +197,9 @@ When partner makes a takeout double, but you **convert** it to penalty by passin
 
 ### Hit it back, send it back
 Redoubling for penalty.
+
+### Heat seeking, train the guns
+A double that announces values and intent to penalize.
 
 ### Chicken Texas (sillyish but also accurate)
 
