@@ -21,6 +21,10 @@ Four numbers that add to 13. 4432, 5332, 5431, et al. This is the "shape" of a h
 
 > Diamonds were 4333 around the table.
 
+### Fit
+Two numbers that describe declarer's trump length.
+> I played the 4-4 diamond fit instead of the 5-4 heart fit.
+
 ### Break
 
 How the remaining cards in a suit split in the opponents' hands
@@ -68,6 +72,21 @@ Okay nobody says this. We always say stiff Jack.
 
 8-4 shape.
 
+### Nth
+3rd, 4th, 6th, etc. The length of a suit when we narrate a hand. The spots are assumed to be small/irrelevant.
+
+> I held Queen Jack sixth.
+
+### Empty Nth
+Like Nth, but emphasizing the uselessness of the spots.
+
+> Declarer had Ace empty fourth.
+
+### N times
+Like Nth. I haven't heard this used in a long time though.
+
+> He held the K five times.
+
 ## On the subject of finesses and cardplay
 ### Finesse
 
@@ -114,6 +133,15 @@ Failing to follow suit and playing a plain suit. Rarely used unless it's in conj
 
 Texas Transfers are a commonly played convention where 4D shows hearts and 4H shows spades. Sometimes, if we're worried that partner may not understand that 4H shows spades, we might bid 4S ourselves. So 4D shows hearts, 4H shows spades but we're chicken, so we bid 4S.
 
+### Strain
+An all inclusive word for trumps that includes NT. The strains are clubs, diamonds, hearts, spades, NT.
+
+### Bid
+A bid! A bid is a number followed by a strain.
+
+### Call
+An all inclusive word for any bid you can make at the bridge table. This includes pass, double, redouble.
+
 ## On the subject of bridge scores
 ### Kiss of Death
 A bridge score of 200. At matchpoints, +200 is often a top/-200 is a bottom.
@@ -126,3 +154,12 @@ A large penalty. I suspect the etymology is because 800 is a telephone number.
 
 ### Top
 A very good matchpoint score. Taken literally, it means 100%, but often is used as hyperbole/approximation. To emphasize a full 100%, people often use an adjective along with top. A cold top, a complete top, tippy top, etc.
+
+
+## On the subject of written notation
+### Parentheses
+Parentheses are used to describe shape that is interchangeable within the parens. (31)(54) means 31 in the majors either way around, 54 in the minors either way around.
+
+### Dash vs Equal
+5-4-3-1 is synonymous with 5431: any 5431 shape.  
+5=4=3=1 is exactly 5 spades, 4 hearts, 3 diamonds, 1 club.
