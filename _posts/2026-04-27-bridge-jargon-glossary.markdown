@@ -72,7 +72,7 @@ Okay nobody says this. We always say stiff Jack.
 
 8-4 shape.
 
-### Nth, N to the <card>, N dead, N bagger
+### Nth, N to the card, N dead, N bagger
 All of these are ways to narrate suit lengths.
 
 3 dead, 4 bagger, 5 to the Q, Q fifth.
