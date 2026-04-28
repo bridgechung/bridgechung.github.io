@@ -180,7 +180,7 @@ To play a small card when there was an opportunity to win.
 Playing an honor over an opponent's played honor.
 > Cover an honor with an honor!
 
-### Fly, Hop, Left Jab, Sky
+### Fly, Hop, Left Jab, Sky, Rise
 Playing second hand high.
 
 ### Drop
@@ -343,3 +343,6 @@ Making it so that your partner makes the final mistake.
 
 ### Cuebid
 AN OVERLOADED TERM WHY DO WE CALL CONTROL BIDS CUEBIDS AS WELL
+
+### Table Feel
+Taking an anti-percentage play because you're psychic. See? That's how you use the word "psychic."
