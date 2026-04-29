@@ -118,7 +118,7 @@ K xxxxx xxxxx AK has very poor texture or purity.
 
 x AKxxx KT9xx xx has very good texture or purity.
 
-## On the subject of finesses and cardplay
+## On the subject of cardplay
 ### Finesse
 
 Trying to win with a card that is not absolutely high. The most classic example is leading low toward AQ and playing the Q.
@@ -167,6 +167,9 @@ Failing to follow suit and playing a plain suit.
 ### Sluff
 Same as pitch. Rarely used unless it's in conjunction with ruff, e.g. ruff and sluff.
 
+### Carved, Butchered, Chopped it up
+When declarer takes a really, really bad line and went down.
+
 ## On the subject of second hand play
 ### Split
 To play a high card from touching cards in second seat.
@@ -207,7 +210,7 @@ When one sides honors are spent on the same trick. May or may not be forced.
 Trying to get your opponents to crash their top honors. Usually Kx -- A
 
 ### Grosvenor
-A play that can never ever gain, but does not cost because your opponents give it back to you because they cannot fathom that you have made such a huge blunder.
+A play that loses, but does not actually lose because your opponents give it back to you because they cannot fathom that you have made such a huge blunder.
 
 Guys you have to read the article. It's my favorite piece of bridge literature ever.
 
