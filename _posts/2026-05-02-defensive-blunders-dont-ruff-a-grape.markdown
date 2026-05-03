@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Defensive Technique: Don't Ruff a Grape!"
-date:   2026-05-07 19:36:43 -0700
+date:   2026-05-02 19:36:43 -0700
 categories: defensive techniques
 ---
 
