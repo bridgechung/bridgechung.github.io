@@ -23,7 +23,7 @@ Declarer won the singleton heart lead in hand and played a diamond immediately (
 
 ![don't ruff a grape 2](/images/dont-ruff-grape2.png)
 
-So declarer is winning the trick in dummy. Should East overruff? I would tell you not to peek at South's hand, but if you stop to take stock of what's happened, you know that declarer is down to only clubs! They already showed up with 7 cards outside of clubs and had preempted 3C -- would you agree that the rest of declarer's hand is clubs? :)
+So declarer is winning the trick in dummy. Should East overruff? I would tell you not to peek at South's hand, but if you stop to take stock of what's happened, you know that declarer is down to only clubs! They already showed up with 7 cards outside of clubs and had preempted 3C -- would you agree that the rest of declarer's hand is trumps? :)
 
 DO NOT RUFF! You only weaken your trump holding! You are long trump hand for the defense now. If you ruff, declarer overruffs, ducks a club, and next your Jack falls under the Queen. This is how the play went at the table.
 
