@@ -9,6 +9,10 @@ categories: misc
 
 -- Arnold Kling, [Narrower, Older, Deeper](https://arnoldkling.substack.com/p/narrower-deeper-older)
 
+> We have jump bids and skip bids but no hop bids. And we can run (from a double) and walk (the dog) and leap(ing Michaels) and crawl(ing Stayman)
+
+-- Coach Cyrus
+
 I'm reminded of this when I teach beginners. There are so many terms that bridge players use as common parlance that are completely inscrutable to a player who is just starting. So in the spirit of pulling back the curtain, I've decided to make my own glossary!
 
 Also, those who know me know that I have a penchant for silliness and gibberish. I will note when some jargon is particularly silly.
@@ -52,7 +56,7 @@ Singleton king. I'm sure this has been invented independently many times over.
 
 Eh. I think I've heard it before in jest.
 
-### Jingleton (extra silly)
+### Jingleton (extra silly!!!)
 Okay nobody says this. We always say stiff Jack.
 
 ### Tight
@@ -118,6 +122,11 @@ K xxxxx xxxxx AK has very poor texture or purity.
 
 x AKxxx KT9xx xx has very good texture or purity.
 
+### ODR
+Stands for Offense to Defense Ratio. Very closely related to texture and purity, but also takes into consideration being balanced vs having more shape.
+
+### Aces and spaces
+A weird way of poo-pooing a hand that has Aces and spot cards. Oh boo hoo, I was dealt Aces.
 ## On the subject of cardplay
 ### Finesse
 
@@ -161,6 +170,10 @@ A suit that is not trumps.
 A verb synonym of trump.
 > Declarer led a heart and ruffed it.
 
+> You can give your partner a ruff, but you can't give your partner a trump.
+
+-- Ted Hwa
+
 ### Pitch, Toss, Shake, Shed, Throw, etc.
 Failing to follow suit and playing a plain suit.
 
@@ -176,7 +189,7 @@ To play a high card from touching cards in second seat.
 > He split the J from JT9.
 
 ### Duck
-To play a small card when there was an opportunity to win.
+To play a small card when you could have played a high one.
 > You have to duck the Ace twice.
 
 ### Cover
@@ -360,7 +373,7 @@ How to get into even more trouble than you're already in.
 use brain H
 
 ### Well, it had play
-You went down. It was bad.
+You went down. Contract was terrible.
 
 ### Cold
 Describing to your partner how obvious it was to make it.
