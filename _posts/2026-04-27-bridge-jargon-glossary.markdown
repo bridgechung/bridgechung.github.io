@@ -345,6 +345,9 @@ Same for the defense if they set the contract.
 
 The most important asset in Bridge Brawl.
 
+### Chicken Blackwood
+When you discover you're missing once Ace/keycard, so you sign off in 5.
+
 ### Australian Push
 A difference of 7 or fewer imps. Maybe the number is different (higher?), but you get the idea.
 
