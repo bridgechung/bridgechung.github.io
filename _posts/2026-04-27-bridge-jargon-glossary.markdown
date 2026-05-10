@@ -168,7 +168,6 @@ A suit that is not trumps.
 
 ### Ruff
 A verb synonym of trump.
-> Declarer led a heart and ruffed it.
 
 > You can give your partner a ruff, but you can't give your partner a trump.
 
