@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bridge Thinking Isn't Binary"
-date:   2026-06-14 01:42:00 -0700
+date:   2026-06-13 01:42:00 -0700
 categories: bidding, mindset
 ---
 
@@ -16,9 +16,9 @@ So this is the first sort of mindset philosophical article that I'm writing. Som
 
 The subject I've chosen for this article is the fact that bridge bids are either-or. Black and white. All or nothing. Either you bid 4H, or you didn't. Either you bid 6S, or you didn't.
 
-For newer players, they fall into the mistake of "resulting." That's a uniquely bridge term that poker really could adopt from us. In poker, they call it Results-Oriented Thinking (to be fair, ROT is a good acronym.) This fallacy is a classic. Because I made 12 tricks, therefore I should have bid slam. Players will commonly see that double dummy says a hand makes a certain contract, therefore it should be bid. This happened in the EZ Bridge game I volunteer and run -- DD announces that 3N makes, and yet everyone who bid it went down. What did they do wrong?
+For newer players, they fall into the mistake of "resulting." That's a uniquely bridge term that poker really could adopt from us. In poker, they call it Results-Oriented Thinking (to be fair, ROT is a good acronym.) This fallacy is a classic. Because I made 12 tricks, therefore I should have bid slam. Because 3NT fails, therefore I should have stayed out. Players will commonly see that double dummy says a hand makes a certain contract, therefore it should be bid. This happened in the EZ Bridge game I volunteer and run -- DD announces that 3N makes, and yet everyone who bid it went down. What did they do wrong?
 
-Why, nothing of course. They finessed into a kingleton and lost the contract. Of course they should finesse. It was odds on.
+Why, nothing of course. They finessed into a kingleton and lost the contract. Of course they should finesse. It was the best chance to make the contract.
 
 In bridge, and perhaps in life, we must learn to separate the decision from the result. Just because a decision led to a certain result, good or bad, doesn't mean we can judge the decision as correct or incorrect post hoc. It may be a point of datum, it may inform future decisions, but believe it or not, the two events may also be complete non sequiturs.
 
