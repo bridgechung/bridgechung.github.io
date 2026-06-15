@@ -9,3 +9,5 @@ permalink: /contact/
 [YouTube](https://www.youtube.com/@ChrisChungPlaysBridge)  
 [Patreon](www.patreon.com/c/BridgeChung)  
 BBO: kuhchung  
+
+You can find me Monday and Friday mornings at the [Palo Alto Bridge Club](https://paloaltobridge.org/)! I give free lectures :)
