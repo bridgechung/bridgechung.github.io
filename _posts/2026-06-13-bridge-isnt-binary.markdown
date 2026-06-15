@@ -5,7 +5,7 @@ date:   2026-06-13 01:42:00 -0700
 categories: bidding, mindset
 ---
 
-> It is possible to commit no mistakes and still lose. That is not a weakness. That is life.
+> It is possible to commit no mistakes and still lose. That is not a weakness. That is life.  
 -- Jean-Luc Picard 
 
 [Read more for free on Patreon!](https://www.patreon.com/cw/BridgeChung)
