@@ -13,13 +13,13 @@ categories: bidding, mindset
 
 This is my first "mindset" article on bridge. Everything I've written has been fairly technical -- cardplay techniques, bidding strategy with direct tie-ins to cardplay, hand evaluation with direct tie-ins to cardplay... btw, did you know that bridge is about taking tricks?
 
-So this is the first sort of mindset philosophical article that I'm writing. Some of my students know that I randomly have seemingly drug-induced philosophical thoughts about bridge. This is one of them.
+So this is the first sort of mindset philosophical article that I'm writing. Some of my students know that I randomly have seemingly drug-induced rambles about bridge. This is one of them.
 
 The subject I've chosen for this article is the fact that bridge bids are either-or. Black and white. All or nothing. Either you bid 4H, or you didn't. Either you bid 6S, or you didn't.
 
 For newer players, they fall into the mistake of "resulting." That's a uniquely bridge term that poker really could adopt from us. In poker, they call it Results-Oriented Thinking (to be fair, ROT is a good acronym.) This fallacy is a classic. Because I made 12 tricks, therefore I should have bid slam. Because 3NT fails, therefore I should have stayed out. Players will commonly see that double dummy says a hand makes a certain contract, therefore it should be bid. This happened in the EZ Bridge game I volunteer and run -- DD announces that 3N makes, and yet everyone who bid it went down. What did they do wrong?
 
-Why, nothing of course. They finessed into a kingleton and lost the contract. Of course they should finesse. It was the best chance to make the contract.
+Why, nothing of course. They finessed into a kingleton and lost the contract. Of course they should finesse. It was the best play. It just didn't work.
 
 In bridge, and perhaps in life, we must learn to separate the decision from the result. Just because a decision led to a certain result, good or bad, doesn't mean we can judge the decision as correct or incorrect post hoc. It may be a point of datum, it may inform future decisions, but believe it or not, the two events may also be complete non sequiturs.
 
