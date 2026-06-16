@@ -15,7 +15,7 @@ That is the myth.
 
 Bidding game on any hand with 5 card support is definitely not some blanket heuristic that you can apply and win boards. It's difficult to quantify when you should or shouldn't bid game, but there is at least *one* scenario that I can think of where you should almost never do this: when your hand is 5M332.
 
-I think there is this blaze of glory that people often look for when they play bridge. They want to nobly sacrifice when the opponents are bidding game, make some heroic read that opps are making it and that our dive will be cheaper than the value of their game. Or perhaps that our call will shut them out of the auction completely, let us play 4M when they were on for 5 or 6 of something and they get it wrong. *Or*, people perhaps just vastly overestimate the value of their trumps. In either case, I think the mundanity of it all is: balanced hands are not that exciting. Just bid the value of your hand.
+I think there is this blaze of glory that people often look for when they play bridge. They want to nobly sacrifice when the opponents are bidding game, make some heroic read that opps are making it and that our dive will be cheaper than the value of their game. Or perhaps that our call will shut them out of the auction completely, let us play 4M when they were on for 5 or 6 of something and they get it wrong. *Or*, perhaps people vastly overestimate the value of their trumps. In either case, I think the mundanity of it all is: balanced hands are not that exciting. Just bid the value of your hand.
 
 And the value of that 5th trump when you are 5332? **Bad.**
 
@@ -59,7 +59,7 @@ P
 
 Believe it or not, I felt a little guilty even raising to 3! You can see that we are off a heart, a club, and potentially 3 diamonds. The hand makes because the DJ is onside. And what exactly was my 5th trump good for?       
 
-In short, with 5M332 when partner opens your major, I would just make your normal value raise. Do you play 1M 3M limit raise, and you have that range? Bid that. Do you have a mixed raise? Make that raise. Are you 6-10, or perhaps 8-10 if you play constructive raises? Do that. When you are flat, you can ignore the 5th trump. It's nice, but for now, pretend it isn't there.
+In short, with 5M332 when partner opens your major, make your normal value raise. Do you play 1M 3M limit raise, and you have that range? Bid that. Do you have a mixed raise? Make that raise. Are you 6-10, or perhaps 8-10 if you play constructive raises? Do that. When you are flat, you can ignore the 5th trump. It's nice, but for now, pretend it isn't there.
 
 This article focused on 5M332 shape, because it is uniquely bad in my experience. Other shapes are complicated, and I don't have a magic bullet for you. 5224, 5431? I'm really not sure. Bridge is hard.
 
