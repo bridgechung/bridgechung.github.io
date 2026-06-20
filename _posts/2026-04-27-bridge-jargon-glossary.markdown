@@ -13,7 +13,7 @@ categories: misc
 
 -- Coach Cyrus
 
-I'm reminded of this when I teach beginners. There are so many terms that bridge players use as common parlance that are completely inscrutable to a player who is just starting. So in the spirit of pulling back the curtain, I've decided to make my own glossary!
+There are so many terms that bridge players use as common parlance that are completely inscrutable, even perhaps to other bridge players! So in the spirit of pulling back the curtain, I've decided to make my own glossary.
 
 Also, those who know me know that I have a penchant for silliness and gibberish. I will note when some jargon is particularly silly.
 
