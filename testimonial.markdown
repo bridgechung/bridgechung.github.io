@@ -35,3 +35,9 @@ Donna Ryan
 <img src="/images/wenyangqi.jpg" width="145" height="258" />
 
 Wenyang Qi
+
+---
+
+> Chris Chung has completely changed the way I think about bridge. Rather than asking students to memorize rules, he explains the logic behind the game, making bidding and play much easier to understand and remember. His enthusiasm is contagious, he’s approachable and encouraging, and he makes every lesson enjoyable. Thanks to Chris, I’m not only having more fun playing bridge—I’m also taking my game to the next level.
+
+Kelly H
