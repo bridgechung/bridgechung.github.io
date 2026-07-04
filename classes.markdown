@@ -7,7 +7,7 @@ permalink: /classes/
 
 In 2026, I'm currently teaching group classes at:
 
-[Beginning Bridge/Refresher](https://anc.apm.activecommunities.com/avenidas/activity/search/detail/8368?onlineSiteId=0&from_original_cui=true)  
+[Beginning Bridge Refresher](https://anc.apm.activecommunities.com/avenidas/activity/search/detail/8368?onlineSiteId=0&from_original_cui=true)  
 Location: Avenidas  
 Dates: July 1, 8, 22, 29
 
