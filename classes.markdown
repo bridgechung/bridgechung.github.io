@@ -17,7 +17,7 @@ Location: Avenidas
 Dates: August 19, 28, September 9, 16, 23, 30  
 
 [Crush Declarer's Contracts! Defend with Malice!](https://paloaltobridge.org/classes/)  
-Location: Palo Alto Bridge Club
+Location: Palo Alto Bridge Club  
 Dates: TBD  
 
 ![Chris Chung lecture pic](/images/Chris-at-EZ-bridge.jpeg)
