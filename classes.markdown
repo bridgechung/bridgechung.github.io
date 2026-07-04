@@ -7,16 +7,16 @@ permalink: /classes/
 
 In 2026, I'm currently teaching group classes at:
 
-[https://anc.apm.activecommunities.com/avenidas/activity/search/detail/8368?onlineSiteId=0&from_original_cui=true](Beginning Bridge/Refresher)  
+[Beginning Bridge/Refresher](https://anc.apm.activecommunities.com/avenidas/activity/search/detail/8368?onlineSiteId=0&from_original_cui=true)  
 Location: Avenidas  
 Dates: July 1, 8, 22, 29
 
 
-[https://anc.apm.activecommunities.com/avenidas/activity/search/detail/8244?onlineSiteId=0&from_original_cui=true](When/Why to Draw Trumps)  
+[When/Why to Draw Trumps](https://anc.apm.activecommunities.com/avenidas/activity/search/detail/8244?onlineSiteId=0&from_original_cui=true)  
 Location: Avenidas  
 Dates: August 19, 28, September 9, 16, 23, 30  
 
-[https://paloaltobridge.org/classes/](Crush Declarer's Contracts! Defend with Malice!)  
+[Crush Declarer's Contracts! Defend with Malice!](https://paloaltobridge.org/classes/)  
 Location: Palo Alto Bridge Club
 Dates: TBD  
 
