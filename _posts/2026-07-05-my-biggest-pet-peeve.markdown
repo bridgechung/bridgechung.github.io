@@ -45,6 +45,8 @@ Do you think they're going to come back?
 
 When teaching people the game of bridge, simply tell them the rules. You must follow suit. Trumps beat everything else. A bid must be higher than a previous bid. **Then let them play the game how they want.** If they never draw trumps, **who cares.** If they lead all of their honors out of their hand from largest to smallest, **who cares.**
 
-Like it or not, you and I are all ambassadors of this game we love. Don't laugh at them. Don't patronize them. Welcome them genuinely and with open arms.
+Don't laugh at new players' blunders. Don't tell them what they should and shouldn't do. Let them discover the game for themselves, the thrill of trying to win the current trick they're on. Welcome them genuinely and with open arms. When the time comes and if they are interested, they will ask for strategy.
+
+Like it or not, you and I are all ambassadors of this game we love.
 
 And we do love this game. Right?
