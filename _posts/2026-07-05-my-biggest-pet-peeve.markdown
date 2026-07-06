@@ -17,7 +17,7 @@ Enough beating around the (Mulberry) bush. My pet peeve is... people driving awa
 
 Rather than clarify how we drive people away, I will share this story instead. And the people involved had no ill will.
 
-A completely new player came to check out a bridge club because he knew I was getting into the game and thought it was great. He picked up the biggest hand he'd ever seen in this fledgling bridge career: 20-21 balanced. He got instructed to open 2NT, so he did. His partner bid 3NT. Okay, now armed with his 20-21 high card points, he began to think if he should bid more.
+A completely new player came to check out a bridge club because he knew I was getting into this great game. He picked up the biggest hand he'd ever seen in this fledgling bridge career: 20-21 balanced. He got instructed to open 2NT, so he did. His partner bid 3NT. Okay, now armed with his 20-21 high card points, he began to think if he should bid more.
 
 He was quickly reprimanded and told that he has to pass, there is no other option, what are you even thinking about, you can't bid here.
 
