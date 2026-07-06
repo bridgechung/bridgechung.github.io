@@ -27,6 +27,8 @@ DO YOU KNOW HOW INCOMPREHENSIBLE THIS AUCTION, ANY AUCTION, IS TO SOMEONE WHO HA
 
 Do you think he came back?
 
+The more experienced players were just trying to share knowledge. There really was nothing malicious about it. And yet...
+
 And you know why this incident sticks with me? Because I can remember with crystal clarity the times that I have done this to other people. To this day it upsets me more than you could know.
 
 [Narrower, Deeper, Older.](https://arnoldkling.substack.com/p/narrower-deeper-older) Bridge is extremely involved now. Even concepts that beginning and intermediate players find absolutely simple and routine, are complete *voodoo* to people trying to break down the significant barrier of learning the game.
