@@ -17,6 +17,7 @@ Teaching bridge is a serious passion of mine. I enjoy helping people of *all* le
 - 2025 San Francisco NABC: 17th out of 204 in Life Master Pairs. Top 8%. Not a practiced partnership.
 - 2026 St Louis NABC: North American Pairs Flight A Champion
 - 2026 Bridge Brawl Champion
+- 2026 Minneapolis NABC: Young 0-3000 Champion
 
 I want to help *you* (and your partner, if you're looking for partnership coaching!) discover, learn, improve, and most importantly, have fun playing one of the greatest card games ever invented.
 
