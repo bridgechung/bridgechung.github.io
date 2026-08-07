@@ -11,3 +11,6 @@ permalink: /contact/
 BBO: kuhchung  
 
 You can find me Monday and Friday mornings at the [Palo Alto Bridge Club](https://paloaltobridge.org/)! I give free lectures :)
+
+# Book a lesson with me!
+[Booking Calendar](https://calendar.app.google/kimfnUnfMERpExuC9)
