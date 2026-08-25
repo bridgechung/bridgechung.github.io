@@ -16,6 +16,6 @@ You can find me Monday and Friday mornings at the [Palo Alto Bridge Club](https:
 [FREE Intro Session](https://calendar.app.google/vmifCroyuUVAZM8T7)
 
 # Book a paid session!
-[60 Minutes](https://calendar.app.google/Z1peQWUPMEDiCUWg9)
-[90 Minutes](https://calendar.app.google/dw2pPQyhTud6ftuG7)
-[120 Minutes](https://calendar.app.google/n7p8dzSq9ZGRsag89)
+[60 Minutes](https://calendar.app.google/Z1peQWUPMEDiCUWg9)  
+[90 Minutes](https://calendar.app.google/dw2pPQyhTud6ftuG7)  
+[120 Minutes](https://calendar.app.google/n7p8dzSq9ZGRsag89)  
