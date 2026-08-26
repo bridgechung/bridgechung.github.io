@@ -8,9 +8,12 @@ layout: default
 
 # Services
 
-## 2 Heads 1 Hand
-![Lesson](/images/kuhchung-video.png){: width="291px" height="223px"}  
-A very popular format for 1 on 1 sessions. You and I share the same hand, and we discuss any and all decisions together. Really get inside my head and find out what I'm thinking in this very exact moment!
+## Book a [FREE Intro Session](https://calendar.app.google/vmifCroyuUVAZM8T7) with me to learn about our services!
+
+## Individual Coaching
+ 
+Two-heads-one-hand is very popular format for 1 on 1 sessions. You and I share the same hand, and we discuss any and all decisions together. Really get inside my head and find out what I'm thinking in this very exact moment!
+![Lesson](/images/kuhchung-video.png){: width="291px" height="223px"} 
 
 Often my students will ask me about rules or lessons they learned from elsewhere that don't quite make sense, and I explain the idea in very clear and simple terms. Gain understanding and reduce the stress of learning catchy phrases that don't actually teach you something!
 
@@ -25,4 +28,4 @@ Hire me to play bridge with you as your partner or as a teammate. Includes a pos
 ![Professional Play](/images/NAP-A.png)  
 
 
-Contact me below for details and rates.
+[Contact me](https://calendar.app.google/vmifCroyuUVAZM8T7) for details and rates.
