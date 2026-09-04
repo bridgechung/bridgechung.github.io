@@ -28,4 +28,4 @@ Hire me to play bridge with you as your partner or as a teammate. Includes a pos
 ![Professional Play](/images/NAP-A.png)  
 
 
-[Contact me](https://calendar.app.google/vmifCroyuUVAZM8T7) for details and rates.
+[Contact me](https://www.bridgewithchris.com/contact/){:target="_blank"} for details and rates.
