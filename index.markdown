@@ -8,7 +8,7 @@ layout: default
 
 # Services
 
-## Book a [FREE Intro Session](https://calendar.app.google/vmifCroyuUVAZM8T7) with me to learn about our services!
+## Book a [FREE Intro Session](https://calendar.app.google/vmifCroyuUVAZM8T7){:target="_blank"} with me to learn about our services!
 
 ## Individual Coaching
  
