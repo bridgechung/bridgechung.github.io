@@ -21,7 +21,7 @@ Teaching bridge is a serious passion of mine. I enjoy helping people of *all* le
 
 I want to help *you* (and your partner, if you're looking for partnership coaching!) discover, learn, improve, and most importantly, have fun playing one of the greatest card games ever invented.
 
-[YouTube](https://www.youtube.com/@ChrisChungPlaysBridge)  
-[Patreon](https://www.patreon.com/c/BridgeChung)  
-[Twitch](https://www.twitch.tv/kuhchung)  
+[YouTube](https://www.youtube.com/@ChrisChungPlaysBridge){:target="_blank"}  
+[Patreon](https://www.patreon.com/c/BridgeChung){:target="_blank"}  
+[Twitch](https://www.twitch.tv/kuhchung){:target="_blank"}  
 BBO: kuhchung  
