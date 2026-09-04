@@ -8,7 +8,7 @@ permalink: /testimonials/
 
 Diana Eveline Serban  
 Director of Operations  
-[www.bridgebase.com](www.bridgebase.com)
+[www.bridgebase.com](www.bridgebase.com){:target="_blank"}
 
 ---
 
