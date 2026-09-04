@@ -3,15 +3,12 @@ layout: page
 title: Classes
 permalink: /classes/
 ---
+# Online
+I teach new and returning players on Tuesdays at [Planet Bridge](https://planet-bridge.org/index.php).  This is a great resource if you're just getting into the game!
 
-
-In 2026, I'm currently teaching group classes at:
+# In Person
 
 ![Avenidas Street view](/images/Avenidas-Street-View.jpg)
-
-[Beginning Bridge Refresher](https://anc.apm.activecommunities.com/avenidas/activity/search/detail/8368?onlineSiteId=0&from_original_cui=true)  
-Location: Avenidas  
-Dates: July 1, 8, 22, 29
 
 [When/Why to Draw Trumps](https://anc.apm.activecommunities.com/avenidas/activity/search/detail/8244?onlineSiteId=0&from_original_cui=true)  
 Location: Avenidas  
