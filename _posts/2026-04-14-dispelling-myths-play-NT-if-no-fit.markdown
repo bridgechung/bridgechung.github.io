@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dispelling Beginner Myths: No Fit = No Trumps!"
+title:  "Dispelling Myths: No Fit = No Trumps!"
 date:   2026-04-14 00:15:00 -0700
 categories: bidding
 ---
