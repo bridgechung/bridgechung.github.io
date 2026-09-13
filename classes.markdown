@@ -16,8 +16,8 @@ Dates: August 19, 28, September 9, 16, 23, 30
 
 ![Chris Chung lecture pic](/images/Chris-at-EZ-bridge.jpeg)
 
-[Crush Declarer's Contracts! Defend with Malice!](https://paloaltobridge.org/classes/){:target="_blank"}  
+[Card Combinations (for Sane People). Maximize your Declarer Play!](https://paloaltobridge.org/classes/){:target="_blank"}  
 Location: Palo Alto Bridge Club  
-![Flyer](/images/Defend with Malice.png)
+![Flyer](/images/Card Combinations for Sane People.png)
 
 You can also find me every Monday and Friday morning at the Palo Alto Bridge Club giving a free 15 minute lecture before game time!
