@@ -8,11 +8,11 @@ I teach new and returning players on Tuesdays at [Planet Bridge](https://planet-
 
 # In Person
 
-![Avenidas Street view](/images/Avenidas-Street-View.jpg)
+[![Avenidas Street view](/images/Avenidas-Street-View.jpg)](https://anc.apm.activecommunities.com/avenidas/activity/search/detail/8574?onlineSiteId=0&from_original_cui=true){:target="_blank"}
 
-[When/Why to Draw Trumps](https://anc.apm.activecommunities.com/avenidas/activity/search/detail/8244?onlineSiteId=0&from_original_cui=true){:target="_blank"}  
+[No Trump Bidding](https://anc.apm.activecommunities.com/avenidas/activity/search/detail/8574?onlineSiteId=0&from_original_cui=true){:target="_blank"}  
 Location: Avenidas  
-Dates: August 19, 28, September 9, 16, 23, 30  
+Dates: Wednesdays, 10AM - 10/07 to 11/11
 
 ![Chris Chung lecture pic](/images/Chris-at-EZ-bridge.jpeg)
 
