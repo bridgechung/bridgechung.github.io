@@ -288,8 +288,21 @@
                     submitBtn.disabled = true;
                     submitBtn.classList.add('opacity-75', 'cursor-not-allowed');
 
-                    // Simulate API delay, then transition to success
-                    setTimeout(() => {
+                    // Prepare the data for Google Sheets
+                    const formData = new FormData();
+                    formData.append('email', emailValue);
+                    formData.append('time', timeValue);
+                    formData.append('timezone', timezoneValue);
+
+                    // Send data to the provided Google Apps Script URL
+                    const googleAppUrl = 'https://script.google.com/macros/s/AKfycbxKR1ZLFWf0w6luR6O5pFm41uDLA61iXSnlUsgyyaxc-etkl1P-UrUdQvqiJ6EAVeNP/exec';
+                    
+                    fetch(googleAppUrl, {
+                        method: 'POST',
+                        body: formData,
+                        mode: 'no-cors' // Required to bypass CORS from a static page
+                    }).then(() => {
+                        // Swap form UI with the success confirmation
                         formUI.classList.add('hidden');
                         successUI.classList.remove('hidden');
                         
@@ -307,7 +320,12 @@
                         console.log("GTM Event Pushed: generate_lead, time:", timeValue, "zone:", timezoneValue);
                         // ==========================================
                         
-                    }, 800);
+                    }).catch(err => {
+                        console.error('Submission failed', err);
+                        submitBtn.innerText = originalText;
+                        submitBtn.disabled = false;
+                        submitBtn.classList.remove('opacity-75', 'cursor-not-allowed');
+                    });
                 }
             });
 
