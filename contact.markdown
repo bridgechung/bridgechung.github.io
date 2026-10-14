@@ -10,7 +10,7 @@ permalink: /contact/
 [Patreon](www.patreon.com/c/BridgeChung){:target="_blank"}  
 BBO: kuhchung  
 
-You can find me Monday and Friday mornings at the [Palo Alto Bridge Club](https://paloaltobridge.org/){:target="_blank"}! I give free lectures :)
+You can find me Monday and Friday mornings at the [Palo Alto Bridge Club](https://paloaltobridge.org/){:target="_blank"}! I give lectures as part of the sessions :)
 
 # Book a free introductory lesson with me! (Limit 1 per customer)
 [FREE Intro Session](https://calendar.app.google/vmifCroyuUVAZM8T7){:target="_blank"}
