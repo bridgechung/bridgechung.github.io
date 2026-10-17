@@ -10,6 +10,8 @@ layout: default
 
 ## Book a [FREE Intro Session](https://www.bridgewithchris.com/free-intro.html){:target="_blank"} with me to learn about our services!
 
+[![Avenidas Street view](/images/Bridge For Lunch - Limited Time.jpg)](https://www.bridgewithchris.com/bridge-for-lunch.html){:target="_blank"}
+
 ## Individual Coaching
  
 Two-heads-one-hand is very popular format for 1 on 1 sessions. You and I share the same hand, and we discuss any and all decisions together. Really get inside my head and find out what I'm thinking in this very exact moment!  
