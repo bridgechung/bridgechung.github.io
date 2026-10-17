@@ -10,7 +10,7 @@ layout: default
 
 ## Book a [FREE Intro Session](https://www.bridgewithchris.com/free-intro.html){:target="_blank"} with me to learn about our services!
 
-[![Avenidas Street view](/images/Bridge For Lunch - Limited Time.jpg)](https://www.bridgewithchris.com/bridge-for-lunch.html){:target="_blank"}
+[![Bridge For Lunch](/images/Bridge For Lunch - Limited Time.jpg)](https://www.bridgewithchris.com/bridge-for-lunch.html){:target="_blank"}
 
 ## Individual Coaching
  
